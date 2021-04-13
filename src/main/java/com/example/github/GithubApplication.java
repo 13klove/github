@@ -8,6 +8,7 @@ public class GithubApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GithubApplication.class, args);
+        Integer x = 3, y = 0;
     }
 
 }
