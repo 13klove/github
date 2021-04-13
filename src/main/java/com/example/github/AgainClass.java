@@ -10,4 +10,8 @@ public class AgainClass {
 
     }
 
+    public void againPush(){
+
+    }
+
 }
