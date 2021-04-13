@@ -6,4 +6,8 @@ public class AgainClass {
 
     }
 
+    public void againPushMethod(){
+
+    }
+
 }
