@@ -3,9 +3,9 @@ package com.example.github;
 public class AgainClass {
 
     public void againMethod(){
-        String a = "";
+        StringBuilder stringBuilder = new StringBuilder();
         for(int i = 0; i < 5; i++){
-            a = a+i;
+            stringBuilder.append(i);
         }
     }
 
