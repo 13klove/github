@@ -3,7 +3,10 @@ package com.example.github;
 public class AgainClass {
 
     public void againMethod(){
-
+        String a = "";
+        for(int i = 0; i < 5; i++){
+            a = a+i;
+        }
     }
 
     public void againPushMethod(){
